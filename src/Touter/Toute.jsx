@@ -13,7 +13,6 @@ import Settings from "../Component/Settings";
 import TransationHistroy from "../Component/TransationHistroy";
 import TableDtsls from "../Component/tableDtsls";
 import NotFound from "../Component/NotFound";
-import RouterDynamic from "../Component/RouterDynamic";
 
 export const router = createBrowserRouter([
   {
